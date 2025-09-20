@@ -16,7 +16,7 @@
       "discord": {
         "shortId": "OnePeak",
         "largeImageText": "OnePeak",
-        "largeImageKey": "server-icon"
+        "largeImageKey": "null"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -1044,4 +1044,5 @@
     }
   ]
 }
+
 
