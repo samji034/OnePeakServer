@@ -10,7 +10,11 @@
       "id": "OnePeakServer",
       "name": "OnePeak",
       "description": "Serveur Minecraft avec 100+ mods sympas",
-      "version": "1.20.1",
+      "version": {
+        "number": "1.20.1",
+        "type": "release",
+        "custom": "forge-1.20.1-47.3.22"
+      }
       "address": "mc.onepeak.be:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -21,25 +25,6 @@
       "mainServer": true,
       "autoconnect": true,
       "modules": [
-        {
-          "id": "net.minecraft:client:1.20.1",
-          "name": "Minecraft Client",
-          "type": "VersionManifest",
-          "artifact": {
-            "size": 0,
-            "url": "https://launchermeta.mojang.com/mc/game/version_manifest_v2.json"
-          }
-        },
-        {
-          "id": "net.minecraftforge:forge:1.20.1-47.3.22",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 6023232,
-            "MD5": "c3394d43bcdf92de0395bd498c2ee2cb",
-            "url": "https://mega.nz/file/oppBzQIA#TYZh4YenwpaQWKVIqPp5FoxXFQGfR5N3QrI5CCKR6DQ"
-          }
-        },
         {
           "id": "com.modpack:ambientsoundsforgev6.1.11mc1.20.1:1.0.0@jar",
           "name": "AmbientSounds FORGE V6.1.11 Mc1.20.1",
@@ -1054,6 +1039,7 @@
     }
   ]
 }
+
 
 
 
