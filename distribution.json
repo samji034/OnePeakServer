@@ -22,7 +22,7 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraft.client.1.20.1",
+          "id": "net.minecraft:client:1.20.1",
           "name": "Minecraft Client",
           "type": "VersionManifest",
           "artifact": {
@@ -31,7 +31,7 @@
           }
         },
         {
-          "id": "net.minecraftforge.forge.1.20.1-47.3.22",
+          "id": "net.minecraftforge:forge:1.20.1-47.3.22",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
@@ -1054,6 +1054,7 @@
     }
   ]
 }
+
 
 
 
