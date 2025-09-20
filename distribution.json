@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "rss": "https://exemple.com/news.rss",
   "discord": {
-    "clientId": "123456789012345678",
-    "smallImageText": "OnePeak"
+    "clientId": "null",
+    "smallImageText": "null"
   },
   "servers": [
     {
@@ -16,7 +16,7 @@
       "discord": {
         "shortId": "OnePeak",
         "largeImageText": "OnePeak",
-        "largeImageKey": "server-icon"
+        "largeImageKey": "null"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -47,7 +47,7 @@
           "artifact": {
             "size": 51722248,
             "MD5": "78270b771d833d9f2936a2bd95a7ec21",
-            "url": "MEGA-URL-AmbientSounds-FORGE-v6-1-11-mc1-20-1-jar"
+            "url": "https://mega.nz/file/oppBzQIA#TYZh4YenwpaQWKVIqPp5FoxXFQGfR5N3QrI5CCKR6DQ"
           }
         },
         {
@@ -57,7 +57,7 @@
           "artifact": {
             "size": 601173,
             "MD5": "515dde53d77858310af77cd93a5d1316",
-            "url": "MEGA-URL-Aquaculture-1-20-1-2-5-5-jar"
+            "url": "https://mega.nz/file/9wIGCT5S#afRXIKWEVzZNvFSo233WuGftrRKDaPK7zOvpvgHQZ8Y"
           }
         },
         {
@@ -67,7 +67,7 @@
           "artifact": {
             "size": 22381010,
             "MD5": "1b20a91a2b013ccad6cd56279a459b12",
-            "url": "MEGA-URL-BiomesOPlenty-forge-1-20-1-19-0-0-96-jar"
+            "url": "https://mega.nz/file/M0QCQLqQ#1MPnM8wQYw1vYeLWR1n3BzZq_gg74HQ-G4eE4-nLQWY"
           }
         },
         {
@@ -77,7 +77,7 @@
           "artifact": {
             "size": 343962,
             "MD5": "46c8e7f9bcfa984bd576e448df2beb25",
-            "url": "MEGA-URL-Bookshelf-Forge-1-20-1-20-2-13-jar"
+            "url": "https://mega.nz/file/AhBzSRjD#s9fMIzeyNxL5vKQ72H8Adu6jmzYbB4nAw1xXjPykpj4"
           }
         },
         {
@@ -87,7 +87,7 @@
           "artifact": {
             "size": 241148,
             "MD5": "a8c22aef55560092ee068e04024da418",
-            "url": "MEGA-URL-CerbonsAPI-Forge-1-20-1-1-1-0-jar"
+            "url": "https://mega.nz/file/oxZyUBpZ#GQkbFZBt6-pBGanwYWPWm58HHH11QwDd_IfkcQOHCI8"
           }
         },
         {
@@ -97,7 +97,7 @@
           "artifact": {
             "size": 360700,
             "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd",
-            "url": "MEGA-URL-Corgilib-Forge-1-20-1-4-0-3-4-jar"
+            "url": "https://mega.nz/file/49BBhBrR#KCXegAJTZ7gLxCsrxNI_aeyiNh_PJzSApmyrQ1T-wEc"
           }
         },
         {
@@ -107,7 +107,7 @@
           "artifact": {
             "size": 1158417,
             "MD5": "7aabe100af362d0df92d8ea1dbc2667b",
-            "url": "MEGA-URL-CreativeCore-FORGE-v2-12-32-mc1-20-1-jar"
+            "url": "https://mega.nz/file/AgoTXRxI#HzsOdfZvnqgTY4nH1UwsI1o5z8faUgZQikMjoB4gkeI"
           }
         },
         {
@@ -117,7 +117,7 @@
           "artifact": {
             "size": 112059,
             "MD5": "390bf89fbee5b92a9cf2fd99f4ad103b",
-            "url": "MEGA-URL-Data-Anchor-forge-1-20-1-1-0-0-19-jar"
+            "url": "https://mega.nz/file/U05WDLBR#45oVdkFLQM4jPoZnNfNsfElWqYyvAvA1YoADGsjjqws"
           }
         },
         {
@@ -127,7 +127,7 @@
           "artifact": {
             "size": 1514819,
             "MD5": "30243d4d9541c6cce0d4efbd8e2ed997",
-            "url": "MEGA-URL-Delightful-1-20-1-3-7-6-jar"
+            "url": "https://mega.nz/file/kspGHaLQ#VX2QTOhkhWmwBjBfmsCRiSXas4Yf-7_mJ-UQNTHHel0"
           }
         },
         {
@@ -137,7 +137,7 @@
           "artifact": {
             "size": 5293864,
             "MD5": "359c4f58d3f16fce6de4770b98fb9203",
-            "url": "MEGA-URL-Eldritch-End-FORGE-MC1-20-1-0-3-4-jar"
+            "url": "https://mega.nz/file/Q8BSDbQT#mJ76zy7U41IgKKqMtYHG7PQz0GN1oB9sMsq_LuZ1Rpg"
           }
         },
         {
@@ -147,7 +147,7 @@
           "artifact": {
             "size": 107624,
             "MD5": "46292349f608fb76350b0c0f20ff6687",
-            "url": "MEGA-URL-ElysiumAPI-1-20-1-1-1-3-jar"
+            "url": "https://mega.nz/file/dwYDhQgB#FNg-UcMf2vGndjrRi4mlAF1R51a4T2KivTjH_RVpToo"
           }
         },
         {
@@ -157,7 +157,7 @@
           "artifact": {
             "size": 5144310,
             "MD5": "ddcb561fc57e81ded04abad4c4b27d83",
-            "url": "MEGA-URL-Epic-Dungeons-0-1-04-Forge-1-19-1-20-1-jar"
+            "url": "https://mega.nz/file/Bh5CjDAY#BAklXrROMPObxb9UDtOIed8zdOj_bJ8gE9uHPoBU9M4"
           }
         },
         {
@@ -167,7 +167,7 @@
           "artifact": {
             "size": 3136389,
             "MD5": "c8af4a2a1cfe8d23da8c583e10a027c5",
-            "url": "MEGA-URL-Epic-Villages-v1-1-0--1-20---jar"
+            "url": "https://mega.nz/file/ZshkGRSQ#P8tLZPgdZBNLeeY6_P3I-bSM5a3caq39SFSROJNhj5E"
           }
         },
         {
@@ -177,7 +177,7 @@
           "artifact": {
             "size": 739017,
             "MD5": "21d6f05e98a5c6afd2d2a2f8233c8657",
-            "url": "MEGA-URL-Epic-Witch-Huts-v1-1-0--1-20---jar"
+            "url": "https://mega.nz/file/MxAF1DBC#nxbCsRVQ-eMLd0TmyczGu802G2KyP37Be6Z8QQ8VwK0"
           }
         },
         {
@@ -187,7 +187,7 @@
           "artifact": {
             "size": 420179,
             "MD5": "e9282de446320895a7835ce9efc6d3b7",
-            "url": "MEGA-URL-FallingTree-1-20-1-4-3-4-jar"
+            "url": "https://mega.nz/file/cgo3VSRR#IFKNFolQy8WKOoDDTbJkr8aE_geU54-DqiwgRsmZvZY"
           }
         },
         {
@@ -197,7 +197,7 @@
           "artifact": {
             "size": 2978080,
             "MD5": "71e177a98e0e6f399761ad00e978d177",
-            "url": "MEGA-URL-FarmersDelight-1-20-1-1-2-9-jar"
+            "url": "https://mega.nz/file/wtxigSiT#PW0ZuZ_LOCVl0Q9GuTGIii6HrGo1XsJTHQDFGL8mNyM"
           }
         },
         {
@@ -207,7 +207,7 @@
           "artifact": {
             "size": 87551,
             "MD5": "87d2b7104f4069d44741f58ebe1bb2bd",
-            "url": "MEGA-URL-GlitchCore-forge-1-20-1-0-0-1-1-jar"
+            "url": "https://mega.nz/file/4ghw2ZQL#tuAp7Ca8FdBrTvZNlBvWVm9zq87kgpRi2Tnz_gZslIA"
           }
         },
         {
@@ -217,7 +217,7 @@
           "artifact": {
             "size": 23488061,
             "MD5": "40786442d010e05f4f0e8b2c06d106f4",
-            "url": "MEGA-URL-Jadens-Nether-Expansion-2-3-5-jar"
+            "url": "https://mega.nz/file/klJDDKDY#Le6vWiG3qIpucTsWNsaE7Ju1z1sgVIUN_kSyBiYIcd0"
           }
         },
         {
@@ -227,7 +227,7 @@
           "artifact": {
             "size": 1258082,
             "MD5": "3c0c0cdac0482e1f78a28614bebce36a",
-            "url": "MEGA-URL-LibX-1-20-1-5-0-14-jar"
+            "url": "https://mega.nz/file/15YzjTYR#OC7-HNGoEQUdZR2UKZUqASuAZ1m6KiWpWxvHR67Aaf8"
           }
         },
         {
@@ -237,7 +237,7 @@
           "artifact": {
             "size": 8377262,
             "MD5": "e8503864b0142fa5ba23dee76ac78490",
-            "url": "MEGA-URL-MOTS-Forge-1-20-1-1-1-0-jar"
+            "url": "https://mega.nz/file/4kYSDLaa#-WwT9ija3JtowkWa9AK4kEm-Ltkv8Q5k--kcbuWFz1E"
           }
         },
         {
@@ -247,7 +247,7 @@
           "artifact": {
             "size": 13764049,
             "MD5": "cf1666b7ad95c60bd3cfb4fc9bd7ffcb",
-            "url": "MEGA-URL-More-Critters-1-1-6-jar"
+            "url": "https://mega.nz/file/lo53XCbI#ZzSc2fSWjkGKEI1Umz7Le6A3bFhhrf91foIySa48oE0"
           }
         },
         {
@@ -257,7 +257,7 @@
           "artifact": {
             "size": 215119,
             "MD5": "7c05072645b1aae529b1e38c74b87c4c",
-            "url": "MEGA-URL-NaturesCompass-1-20-1-1-11-2-forge-jar"
+            "url": "https://mega.nz/file/ttwn1AyZ#5Al5E3CRZNS0M6-XUj3i1sD8yJDHUkaQMDhjvtczEYg"
           }
         },
         {
@@ -267,7 +267,7 @@
           "artifact": {
             "size": 76561,
             "MD5": "445dcbe592cf0333268e63f4699a1840",
-            "url": "MEGA-URL-NebulusOakTree-M-1-20-1-ForM-2-1-0-jar"
+            "url": "https://mega.nz/file/dpIzGQ5Z#5mxUONtvZ9zXEen4ZJqHiO8Ztn4TarNFwh0fiJHz9uo"
           }
         },
         {
@@ -277,7 +277,7 @@
           "artifact": {
             "size": 159298,
             "MD5": "a80da15e212c4dc5dc8fceb8428952c0",
-            "url": "MEGA-URL-NebulusSpruceTree-M-1-20-1-ForM-2-1-0-jar"
+            "url": "https://mega.nz/file/spwT1J5Y#J45GLrB7NCjS2Z0jbqpN9GLurDQXev-o-OKYlpkHX04"
           }
         },
         {
@@ -287,7 +287,7 @@
           "artifact": {
             "size": 424035,
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c",
-            "url": "MEGA-URL-OctoLib-FORGE-0-5-0-1-1-20-1-jar"
+            "url": "https://mega.nz/file/V0RUHDSR#H28Ub67y6F8wFI5JfBcCqY4Mgdii9UB-R83uXsPmHIU"
           }
         },
         {
@@ -297,7 +297,7 @@
           "artifact": {
             "size": 642711,
             "MD5": "d5154cacf6859582eebd853bd59f5537",
-            "url": "MEGA-URL-Patchouli-1-20-1-84-1-FORGE-jar"
+            "url": "https://mega.nz/file/dgZw3LzK#5s7CmgAdQ0yGhD7RjYiHol_nqsPpiIB0xBbB6OmdvLI"
           }
         },
         {
@@ -307,7 +307,7 @@
           "artifact": {
             "size": 282474,
             "MD5": "13133ab9989e8474931cd7a86bd19cc5",
-            "url": "MEGA-URL-Placebo-1-20-1-8-6-3-jar"
+            "url": "https://mega.nz/file/9lx2FCYJ#CPCLToMLYO9DlCxl5g5W67EVJOR-U47CvfYFrmhuaMs"
           }
         },
         {
@@ -317,7 +317,7 @@
           "artifact": {
             "size": 426631,
             "MD5": "c939be8009d600fb317b078f4ba01577",
-            "url": "MEGA-URL-PureOres-v1-0-3-1-20-1-Forge-jar"
+            "url": "https://mega.nz/file/tgxVWQgT#OFv-nqcPYMgcqXeHbi2cLpkZIGB2P-8U-skdLUazm1I"
           }
         },
         {
@@ -327,7 +327,7 @@
           "artifact": {
             "size": 2384003,
             "MD5": "789cc933dc48d77a49e17edf607b602d",
-            "url": "MEGA-URL-RoughlyEnoughItems-12-1-785-forge-jar"
+            "url": "https://mega.nz/file/F9YEwCQT#aF58edgHn-DHMYNxmQTVigLbH2zuxyT9HWwCqf1ilXA"
           }
         },
         {
@@ -337,7 +337,7 @@
           "artifact": {
             "size": 107533,
             "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893",
-            "url": "MEGA-URL-TerraBlender-forge-1-20-1-3-0-1-10-jar"
+            "url": "https://mega.nz/file/wgY2VCgY#LR7zRy1rUk04-0p_zeWjHE1xL3rWIAXNlEgcTL0H82s"
           }
         },
         {
@@ -347,7 +347,7 @@
           "artifact": {
             "size": 228191,
             "MD5": "c9052dc79261ec5cd3a243cb031a2164",
-            "url": "MEGA-URL-TravelersTitles-1-20-Forge-4-0-2-jar"
+            "url": "https://mega.nz/file/pxZEwKyZ#BfvFP_O9by-TfsJhNc5eG4DMjgqcg6KC4TpQ2wvvXys"
           }
         },
         {
@@ -357,7 +357,7 @@
           "artifact": {
             "size": 960799,
             "MD5": "002d9a661be7e982db177d7b0fc8d49e",
-            "url": "MEGA-URL-XaerosWorldMap-1-39-12-Forge-1-20-jar"
+            "url": "https://mega.nz/file/8lJyQLrb#BFNemnHA_r3O9azcRmTNbJjFa7d2LWYP1GPpjRdlWFc"
           }
         },
         {
@@ -367,7 +367,7 @@
           "artifact": {
             "size": 1723029,
             "MD5": "2b2bfaf3a1872b83c57aaa51c73f10d9",
-            "url": "MEGA-URL-Xaeros-Minimap-25-2-10-Forge-1-20-jar"
+            "url": "https://mega.nz/file/otYwVYZS#4fHaUwqb_0lLivUYkiMotrk89kn76u9nWlqrTCvjxo0"
           }
         },
         {
@@ -377,7 +377,7 @@
           "artifact": {
             "size": 370524,
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c",
-            "url": "MEGA-URL-YungsApi-1-20-Forge-4-0-6-jar"
+            "url": "https://mega.nz/file/E9RDVa5I#gof420UyQBvU2MXejBwcvNSJXamI-cLKl1zpWo3sysI"
           }
         },
         {
@@ -387,7 +387,7 @@
           "artifact": {
             "size": 222317,
             "MD5": "7e9be4e9b8c0783dc7693df320998326",
-            "url": "MEGA-URL--1-20-1--Forge--RPG-HUD-3-10-3-jar"
+            "url": "https://mega.nz/file/Jlw2ETCb#hvQ92IpaHQAc7T3q-lWQfan2GSeE0d63gfFyOVEhhRQ"
           }
         },
         {
@@ -397,7 +397,7 @@
           "artifact": {
             "size": 5255759,
             "MD5": "41e2e1bbd89f858b35f280858857323f",
-            "url": "MEGA-URL-aaa-particles-1-20-1-1-4-11-forge-jar"
+            "url": "https://mega.nz/file/VgQV0KKB#vYWH5lPvTe9BByXXFu6MAxbM4IacDU7UHqepA2lCx-Q"
           }
         },
         {
@@ -407,7 +407,7 @@
           "artifact": {
             "size": 21479291,
             "MD5": "28d99ef396f65793c6dd102645ad33f0",
-            "url": "MEGA-URL-alshanex-familiars-1-20-1-v1-1-2-HotFix-jar"
+            "url": "https://mega.nz/file/YtoUlBoI#yjy9QzKswvQOk4HscMJYlPY25kaCbc8ez_ErJAVsAzs"
           }
         },
         {
@@ -417,7 +417,7 @@
           "artifact": {
             "size": 580602,
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
-            "url": "MEGA-URL-architectury-9-2-14-forge-jar"
+            "url": "https://mega.nz/file/oxhWUAJT#rPP1TXI5Twpd6lcX_ySGhqf-5imGj8qXM9J7f-Hf7es"
           }
         },
         {
@@ -427,7 +427,7 @@
           "artifact": {
             "size": 850457,
             "MD5": "85081468e7498005f5dfdab2ae520097",
-            "url": "MEGA-URL-artifacts-forge-9-5-16-jar"
+            "url": "https://mega.nz/file/xkxTxJiK#LaYg5QvF3ZfpyLfzhnkJ0SpjjyJIEKesvlEyUhLT1Wc"
           }
         },
         {
@@ -437,7 +437,7 @@
           "artifact": {
             "size": 208946,
             "MD5": "d515ff085b9e95d4554886871e187aac",
-            "url": "MEGA-URL-awesomedungeonend-forge-1-20-1-3-1-1-jar"
+            "url": "https://mega.nz/file/dpQmUQLS#I_E7mLeOebX6ufxCjKZBdQa_7c9fu3THl1eWWAAg0cY"
           }
         },
         {
@@ -447,7 +447,7 @@
           "artifact": {
             "size": 1283810,
             "MD5": "368d765c20b41fa7f865973cdd82c914",
-            "url": "MEGA-URL-azurelib-neo-1-20-1-3-0-15-jar"
+            "url": "https://mega.nz/file/IphgCD4b#qH7ZAK6MUJxM2w5BZC0r_JAFhP2AlVKmUdzxuQ2CYu8"
           }
         },
         {
@@ -457,7 +457,7 @@
           "artifact": {
             "size": 597278,
             "MD5": "deaaa6ea2cf1c9191c024659520b61c8",
-            "url": "MEGA-URL-balm-forge-1-20-1-7-3-34-all-jar"
+            "url": "https://mega.nz/file/ZlgGhAzK#7u2ymd4g08KWb1bpTUb627_ll8ZXcKiRbXKogw6LnRU"
           }
         },
         {
@@ -467,7 +467,7 @@
           "artifact": {
             "size": 7037761,
             "MD5": "4246d9a986edeae31e62b36fd5316f56",
-            "url": "MEGA-URL-biologica-1-1-1-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/s0gEAJoC#K-zu1fszed-iSg3egUtv8126G0V8nQ-HPQCwNC-2J6M"
           }
         },
         {
@@ -477,7 +477,7 @@
           "artifact": {
             "size": 123151,
             "MD5": "87d43e553dd8abdc8d2005d57a37f76c",
-            "url": "MEGA-URL-blazegear-1-4-5-jar"
+            "url": "https://mega.nz/file/VgBWhBib#5WeWMQgaMIzUyrw822dbNsBdS1pij54FXvkOHuo4tsU"
           }
         },
         {
@@ -487,17 +487,17 @@
           "artifact": {
             "size": 1151213,
             "MD5": "de8703f1bd1de5c64ebd411e37b19d47",
-            "url": "MEGA-URL-blueprint-1-20-1-7-1-3-jar"
+            "url": "https://mega.nz/file/ZxRRzCqI#jk_wxRZ9W8ukE-z-5R2fY16OhpUGz9yHoBi0AtkebYk"
           }
         },
         {
-          "id": "com.modpack:borninchaosforge1.20.11.7.2:1.0.0@jar",
-          "name": "Born In Chaos [Forge]1.20.1 1.7.2",
+          "id": "com.modpack:borninchaosforge1.20.11.7.21:1.0.0@jar",
+          "name": "Born In Chaos [Forge]1.20.1 1.7.2 (1)",
           "type": "ForgeMod",
           "artifact": {
             "size": 11816101,
             "MD5": "53c0274da230c0b83864a8f1043d0a60",
-            "url": "MEGA-URL-born-in-chaos--Forge-1-20-1-1-7-2-jar"
+            "url": "https://mega.nz/file/t5JHCS7A#KUM53vm4QhjypHtMdz_92XIEOZ541oMtkOlzb2zwFmo"
           }
         },
         {
@@ -507,7 +507,7 @@
           "artifact": {
             "size": 21691853,
             "MD5": "5e0f36d582c68f32b961367b19f6adc6",
-            "url": "MEGA-URL-bossesrise-1-20-1-forge-1-0-9-1-jar"
+            "url": "https://mega.nz/file/pwYjFTiT#8n8mDr4HiIYVkRVJuhCYvNloi_bKgTwu9KAXjoT_ZdE"
           }
         },
         {
@@ -517,7 +517,7 @@
           "artifact": {
             "size": 5628481,
             "MD5": "f2a87c2f38401936e0e5bc00d3e4a2c3",
-            "url": "MEGA-URL-brazil-legends-1-7-0-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/g5ZCVbZC#4DMPYOu5yky0M6lgD6pimcJ-6NpkNZ1e3YtRCejBw7M"
           }
         },
         {
@@ -527,7 +527,7 @@
           "artifact": {
             "size": 40125,
             "MD5": "ac909c99a2a96ead2073f98bf0dd7b78",
-            "url": "MEGA-URL-caelus-forge-3-2-0-1-20-1-jar"
+            "url": "https://mega.nz/file/k1pizIIa#lY1h2eqEzyWARtOcDyXtflNUMrmcHwm8K-qFYukQxWs"
           }
         },
         {
@@ -537,7 +537,7 @@
           "artifact": {
             "size": 439457,
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7",
-            "url": "MEGA-URL-carryon-forge-1-20-1-2-1-2-7-jar"
+            "url": "https://mega.nz/file/4gpE2ZSb#q7ELXONxgUlj0XkuJDqpmOFCG1IZtvF2mV7a6eZd6hQ"
           }
         },
         {
@@ -547,7 +547,7 @@
           "artifact": {
             "size": 152728,
             "MD5": "8f52399cb8c630588b97846190b72f9d",
-            "url": "MEGA-URL-cherry-samurai-temple-1-0-1-Forge-1-20-1-jar"
+            "url": "https://mega.nz/file/h44yXJyA#rvD3-_dA-LGSulV_W_PU3LhkpwctqDED0xFHnlONU7E"
           }
         },
         {
@@ -557,7 +557,7 @@
           "artifact": {
             "size": 109336,
             "MD5": "09f716e913acf4dd2bb7d9741de3f5de",
-            "url": "MEGA-URL-chineseflyingislandtower-1-1-0-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/RwIXEYIA#keDklqcWEM0eDvfAB16Opo7OUUvdGqFzhWIkQoPPvR4"
           }
         },
         {
@@ -567,7 +567,7 @@
           "artifact": {
             "size": 3185379,
             "MD5": "f027b4f6862b99a1e0516353fb3ef0fc",
-            "url": "MEGA-URL-citadel-2-6-2-1-20-1-jar"
+            "url": "https://mega.nz/file/ZoJH2Z4Z#xFYZM38D-YvONj9rVUSueIYwcB_IYCQD6xjcWWZXsd4"
           }
         },
         {
@@ -577,7 +577,7 @@
           "artifact": {
             "size": 352900,
             "MD5": "f95e0be72163dfc4bbe28581cf18aa74",
-            "url": "MEGA-URL-clockworklib-1-20-1-1-0-0-jar"
+            "url": "https://mega.nz/file/g8wRWThb#FFDAZkFrUWO8WLdYBD4BD4KIlejfWIevVEBqF9W7cJ4"
           }
         },
         {
@@ -587,7 +587,7 @@
           "artifact": {
             "size": 1181413,
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
-            "url": "MEGA-URL-cloth-config-11-1-136-forge-jar"
+            "url": "https://mega.nz/file/NhZRHYAD#1VP__283gYeBO5wsebwkVfJxA4q2GEAkhHmvjQwz1Qw"
           }
         },
         {
@@ -597,7 +597,7 @@
           "artifact": {
             "size": 245618,
             "MD5": "346a9e592558c1fde772b39c10be4cdf",
-            "url": "MEGA-URL-corpse-forge-1-20-1-1-0-21-jar"
+            "url": "https://mega.nz/file/RtJQRK6C#Tu4kvqSRj12dwJ8Gvlurmb-nfXpsgHTtLvJi8j9Yi00"
           }
         },
         {
@@ -607,7 +607,7 @@
           "artifact": {
             "size": 18764522,
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9",
-            "url": "MEGA-URL-create-1-20-1-6-0-6-jar"
+            "url": "https://mega.nz/file/Z9RzkChJ#0p2CNQEu14nFnqHqDmyQX5-OyLrxX5xnnqWu_qCC4z0"
           }
         },
         {
@@ -617,7 +617,7 @@
           "artifact": {
             "size": 398066,
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
-            "url": "MEGA-URL-curios-forge-5-14-1-1-20-1-jar"
+            "url": "https://mega.nz/file/txAWAKqL#kq7xVYPh0cdaAAmsl0U046FVlMKvCYTnZ6g37AC4m6Q"
           }
         },
         {
@@ -627,7 +627,7 @@
           "artifact": {
             "size": 157125,
             "MD5": "945b4fa736647de62e0c989dd9a8a54f",
-            "url": "MEGA-URL-duclib-1-20-1-1-4-jar"
+            "url": "https://mega.nz/file/k9h2zJYY#UrwZLjNTNtLBjqRY7Ku5CfZO6CPfle830BaYaG5Cs0A"
           }
         },
         {
@@ -637,7 +637,7 @@
           "artifact": {
             "size": 876055,
             "MD5": "6b4b444865ac3f0ef422a5e4ee4d2690",
-            "url": "MEGA-URL-dynamiccrosshair-9-8-1-20-1-forge-jar"
+            "url": "https://mega.nz/file/FxxQlRYa#7kbTtpYQBGPku5PMtwkn5akmDDgDlqYVBRrIABbpfgA"
           }
         },
         {
@@ -647,7 +647,7 @@
           "artifact": {
             "size": 21506560,
             "MD5": "73e2f003a09de3eb399ec0f726e14793",
-            "url": "MEGA-URL-enlightend-5-0-14-1-20-1-jar"
+            "url": "https://mega.nz/file/pxh2nZLQ#qfWl6alArfVdzhfXd71co1dMHCvkYmZ7LSdI7dhvbHA"
           }
         },
         {
@@ -657,7 +657,7 @@
           "artifact": {
             "size": 74447,
             "MD5": "e57e6eebaf23148014d5caabe7829783",
-            "url": "MEGA-URL-fabridge-0-0-4-R-1-20-1-jar"
+            "url": "https://mega.nz/file/QgpQjb6I#_433u17TLpw_JmYtVnzhsuUZF19hNXxjxs4waocpujM"
           }
         },
         {
@@ -667,7 +667,7 @@
           "artifact": {
             "size": 234691,
             "MD5": "46c9f6f220c048582ad39a210bc655d1",
-            "url": "MEGA-URL-forgeskyboxes-0-0-2-1-20-2-new-jar"
+            "url": "https://mega.nz/file/8lBAXKKR#pK_rEazmllQWU3zgw8KsvJkP-PJOj9axgyUvipusSOw"
           }
         },
         {
@@ -677,7 +677,7 @@
           "artifact": {
             "size": 2423099,
             "MD5": "d50f702d084351a0713b157ea177cacc",
-            "url": "MEGA-URL-fromtheshadowsreborn-2-81-jar"
+            "url": "https://mega.nz/file/x54gTRDS#t98xsWJJI2sEXn-ICQmUwzEAJ_0ZJu8drdMCMEJqX50"
           }
         },
         {
@@ -687,7 +687,7 @@
           "artifact": {
             "size": 1013210,
             "MD5": "13892e4f925b758498e7db2f2235da08",
-            "url": "MEGA-URL-geckolib-forge-1-20-1-4-7-4-jar"
+            "url": "https://mega.nz/file/FoZwWRrI#-lY6XMThZCBrhIcD-nA7lQQldX9YiuKCU55GIUziaMU"
           }
         },
         {
@@ -697,7 +697,7 @@
           "artifact": {
             "size": 8428944,
             "MD5": "a11807aabab341940532494b3b7474b7",
-            "url": "MEGA-URL-goblins-tyranny-1-2-3-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/h5wkmIAI#LpymykVcvprwTZkZ6dUa9St-5VcTRTkKEclNffk8ruU"
           }
         },
         {
@@ -707,7 +707,7 @@
           "artifact": {
             "size": 21854126,
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803",
-            "url": "MEGA-URL-iceandfire-2-1-13-1-20-1-beta-5-jar"
+            "url": "https://mega.nz/file/whgFASRA#fMMrU-OAweeraUIYC-7lr5XT0OCMBkJKtsbTnuLiRN4"
           }
         },
         {
@@ -717,7 +717,7 @@
           "artifact": {
             "size": 683711,
             "MD5": "49865ff257c8931ccd8b7ac669a57c76",
-            "url": "MEGA-URL-integrated-api-1-5-1-1-20-1-forge-jar"
+            "url": "https://mega.nz/file/UlQUxJDL#xeh0PaNvZHZAdLmw8o7CMbboLsKwbGChPq9HCKkuUrg"
           }
         },
         {
@@ -727,7 +727,7 @@
           "artifact": {
             "size": 8838604,
             "MD5": "ffc9267a2ef52074ae1489b5b0ad06c5",
-            "url": "MEGA-URL-irons-spellbooks-1-20-1-3-4-0-9-jar"
+            "url": "https://mega.nz/file/UhJRwKqB#JEAnkrBv1eczSKOPZs9JCr6YJqb7VZy6kBFEJAvLW84"
           }
         },
         {
@@ -737,7 +737,7 @@
           "artifact": {
             "size": 242394,
             "MD5": "1b3262ece0ba181bc4ccf3a3b215f2c7",
-            "url": "MEGA-URL-jobs-mod-1-0-0-jar"
+            "url": "https://mega.nz/file/owYi1YLB#quKzwWBhlZrfdlTYMzxBIP2CZiyC7MxmoQZO2ZS7MSM"
           }
         },
         {
@@ -747,7 +747,7 @@
           "artifact": {
             "size": 244410,
             "MD5": "2fc42e82c5ab39bdd9ab80de2c8201b3",
-            "url": "MEGA-URL-libraryferret-forge-1-20-1-4-0-0-jar"
+            "url": "https://mega.nz/file/51hiBAzT#4wb8yPFpnCJHWsySRmlSYfugh7gW9mlUXSzogF-kTK4"
           }
         },
         {
@@ -757,7 +757,7 @@
           "artifact": {
             "size": 165468,
             "MD5": "53ec5280c6db0984f4bee51b7ebf5800",
-            "url": "MEGA-URL-lionfishapi-2-4-jar"
+            "url": "https://mega.nz/file/x8YlXI7A#aXMeqO0jcnrrbUiawa8U-OQ60nYQxSnlkKdfWwhHDSU"
           }
         },
         {
@@ -767,7 +767,7 @@
           "artifact": {
             "size": 476347,
             "MD5": "3c596bbc1b5f769f22be751e9c21a6c8",
-            "url": "MEGA-URL-lithostitched-forge-1-20-1-1-4-11-jar"
+            "url": "https://mega.nz/file/BxokhT6J#S_NhqtK952_b4LbWR-hDSz75HNxiif9kTukvaccuLt4"
           }
         },
         {
@@ -777,7 +777,7 @@
           "artifact": {
             "size": 460882,
             "MD5": "2d5374b809d9ec1d7700a194b2fd0dd5",
-            "url": "MEGA-URL-lootr-forge-1-20-0-7-35-93-jar"
+            "url": "https://mega.nz/file/F8BgxJYI#nw0V65A4Z6UfIHyh5X1mJAKkT8_vjslx7gx5cvc5ZYo"
           }
         },
         {
@@ -787,7 +787,7 @@
           "artifact": {
             "size": 137907,
             "MD5": "d392f44630086c465a0287051784b988",
-            "url": "MEGA-URL-nebulus-cherryblossom-tree-2-0-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/cxoDSa6C#4mvqndqKlHtdxKXPsp19yMOpTOHuBubiAkh6GfdqgNE"
           }
         },
         {
@@ -797,7 +797,7 @@
           "artifact": {
             "size": 751130,
             "MD5": "8fb0e0455e1bd0f27adba4abb3e3b3cc",
-            "url": "MEGA-URL-nebulus-giant-jungle-tree-2-1-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/9wAHhLyR#oevP1J0UwKB7Pdp8-l087vWvzm11DcZOP1fU4QREmKg"
           }
         },
         {
@@ -807,7 +807,7 @@
           "artifact": {
             "size": 2518667,
             "MD5": "101a7351c15caaf071efb98d7549fad0",
-            "url": "MEGA-URL-nekoration-1-8-2-jar"
+            "url": "https://mega.nz/file/Y5wBkBYZ#9X8141s9dCzal4Wy9a5VblWrovIcbRnr8G6W38ugNIM"
           }
         },
         {
@@ -817,7 +817,7 @@
           "artifact": {
             "size": 11967518,
             "MD5": "af5004b22a7dd94a81cdeb9882ba3f20",
-            "url": "MEGA-URL-occult-alpha-2-jar"
+            "url": "https://mega.nz/file/4sJAQY4Q#7HD0rTf-I-xW1IO_yAAmOjv2gfmBR-ACmMWs_vf0K-M"
           }
         },
         {
@@ -827,7 +827,7 @@
           "artifact": {
             "size": 39546870,
             "MD5": "649e9fad87f6bc934fdd17072bcbdee9",
-            "url": "MEGA-URL-paladins-oath-1-2-1-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/ZsYkBDiY#QfQOrqJS-D1uTyqrWAbX2LEGcOyl6MH84nSjnuelODw"
           }
         },
         {
@@ -837,7 +837,7 @@
           "artifact": {
             "size": 1230526,
             "MD5": "4ccd993e1c20dfd2f368568efc6b7193",
-            "url": "MEGA-URL-phantasmic-1-20-1-0-2-5-jar"
+            "url": "https://mega.nz/file/I9ZkDY5R#1Spk-SgK4z0f7cZQusDRHmo3Z6G0kXzxKDJzAStqaaE"
           }
         },
         {
@@ -847,7 +847,7 @@
           "artifact": {
             "size": 2488488,
             "MD5": "2ea6a9c25132e0e06b02f191d8dd6e43",
-            "url": "MEGA-URL-piglinproliferation-1-20-1-1-2-6-jar"
+            "url": "https://mega.nz/file/40Q3FIAT#9hoFkYlzSVIRR_uf4XB52obdcDEtKAX8ibRy2zSkfGk"
           }
         },
         {
@@ -857,7 +857,7 @@
           "artifact": {
             "size": 181437,
             "MD5": "46f8554181d4d240075ea4919d01fd01",
-            "url": "MEGA-URL-player-animation-lib-forge-1-0-2-rc1-1-20-jar"
+            "url": "https://mega.nz/file/k5phjJQC#v4b87h6gllZ8BLrA6dZ6cE9bbkFCUVTs28rcfxBJLdY"
           }
         },
         {
@@ -867,7 +867,7 @@
           "artifact": {
             "size": 125513,
             "MD5": "06a48264bb9a457c4a43c232ec1a5685",
-            "url": "MEGA-URL-qraftys-japanese-villages-1-jar"
+            "url": "https://mega.nz/file/o05SiaoC#jgpvT7zZPKtuMA-LoKrOgtlEoaeh2DjXfi7bRHflELI"
           }
         },
         {
@@ -877,7 +877,7 @@
           "artifact": {
             "size": 981055,
             "MD5": "97df0788e6e9c9eb0b050f5b03856bd1",
-            "url": "MEGA-URL-realmrpg-quests-0-1-1-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/h4RGjS4R#unmY2jHVgKYMdByCrOf-4Q23Duo2UbNyN3fATWB-Hr0"
           }
         },
         {
@@ -887,7 +887,7 @@
           "artifact": {
             "size": 652022,
             "MD5": "39a9a0fbe5cba2765f46090dc0c245b8",
-            "url": "MEGA-URL-realmrpg-skeletons-1-1-0-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/dgp23bwb#2z8aDo6DWK-g9C8xhkH-ZWhC-7IHjIQmwiBErcggKFE"
           }
         },
         {
@@ -897,7 +897,7 @@
           "artifact": {
             "size": 1520280,
             "MD5": "18be53515d2feaa08da2196ef6c8b321",
-            "url": "MEGA-URL-relics-1-20-1-0-8-0-9-jar"
+            "url": "https://mega.nz/file/40ZCEDyZ#L4YQqZSvgtT38UciH3iHXNmAVeEdrEc-PS79DKoyZAo"
           }
         },
         {
@@ -907,7 +907,7 @@
           "artifact": {
             "size": 961956,
             "MD5": "d96646878b39b67e373609f6dda904c4",
-            "url": "MEGA-URL-rpg-companions-tiny-dragons-0-0-5-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/d9RVQbjA#XvbXq3t1GuLRCAPtf2ZIZcluU9rRYNIAsM0CRX0PAR0"
           }
         },
         {
@@ -917,7 +917,7 @@
           "artifact": {
             "size": 2908659,
             "MD5": "27e38f64b499f640b5115b3edf323592",
-            "url": "MEGA-URL-shineals-prehistoric-expansion-1-4-2-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/N4RSAawB#QZKB-MG7D9L7kUY9pF8kn6mo4XdNrmkK-YQQuaEpRi4"
           }
         },
         {
@@ -927,7 +927,7 @@
           "artifact": {
             "size": 171139,
             "MD5": "ad5277342482ccada3ffa56b52254e07",
-            "url": "MEGA-URL-simply-traps-1-7-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/wpoUyIjY#o8ggOs7aAgMXnG09VoTbX_d0YbcP5ECikkj5LD6lgPo"
           }
         },
         {
@@ -937,7 +937,7 @@
           "artifact": {
             "size": 7518291,
             "MD5": "e8139cf0b8dad0eba8570f5a39386122",
-            "url": "MEGA-URL-soundofrain-0-4-jar"
+            "url": "https://mega.nz/file/Z9hxkJ4Y#xiRD-NTOOdER8Hl4jAZcrb5Sdc6kc_zIyNNlnWl30BE"
           }
         },
         {
@@ -947,7 +947,7 @@
           "artifact": {
             "size": 75420,
             "MD5": "463e96399718ee2fa2d65949fb3bf410",
-            "url": "MEGA-URL-tame-the-fox-1-0-1-20-1-jar"
+            "url": "https://mega.nz/file/x5hSgZKA#aUlG7frABvf4QHbbC3b5inCdyHA60JE25uNOvOnbffg"
           }
         },
         {
@@ -957,7 +957,7 @@
           "artifact": {
             "size": 319010,
             "MD5": "6a5584555d8ee97a4857a718dfcc33a3",
-            "url": "MEGA-URL-tectonic-3-0-12-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/N8IHBLqZ#s1AaTpz8lLrK41ZmFGwHHwP6_tJmZBSheavEP1xzroE"
           }
         },
         {
@@ -967,7 +967,7 @@
           "artifact": {
             "size": 7601621,
             "MD5": "3c5d9c5c22e8d1f012b35c92339e0754",
-            "url": "MEGA-URL-threateningly-mobs-1-0-9-7-forge-1-20-1-jar"
+            "url": "https://mega.nz/file/J8RWECLA#ysy779POrUJimeqgYpGElabyXvt5LovxzKsRCIY4tug"
           }
         },
         {
@@ -977,7 +977,7 @@
           "artifact": {
             "size": 950321,
             "MD5": "9637c8e396bd651db9b075630cba7fc8",
-            "url": "MEGA-URL-too-many-bows-forge-3-6-7-jar"
+            "url": "https://mega.nz/file/shgWwIQQ#QwOzyqcZRifzWmZKXxz_KQg9PkjS-g3q8qEUJWS4Z-U"
           }
         },
         {
@@ -987,7 +987,7 @@
           "artifact": {
             "size": 1252929,
             "MD5": "9695d1db6af71ae3f76aa8bc01b55ebd",
-            "url": "MEGA-URL-travelersbackpack-forge-1-20-1-9-1-40-jar"
+            "url": "https://mega.nz/file/khIVVS5L#9HKJmouH94_UB8-43GhvoUJU-gj9-WHHg9QJ4p3E0-Y"
           }
         },
         {
@@ -997,7 +997,7 @@
           "artifact": {
             "size": 4818918,
             "MD5": "a25374f245d5c2dec1cf1e43e5c83c7e",
-            "url": "MEGA-URL-ultramarine-1-20-1-0-5-1-jar"
+            "url": "https://mega.nz/file/wkoXCbaS#4tmgblbqsploobKpSTe-28xeXQTu8SG1keRJrANL-xk"
           }
         },
         {
@@ -1007,7 +1007,7 @@
           "artifact": {
             "size": 11967890,
             "MD5": "d3783882e9fc95dac09b545021161d84",
-            "url": "MEGA-URL-unearthed-journey-2-2-1-jar"
+            "url": "https://mega.nz/file/9kg2jbbY#F3tp6379H7E8hhQT9xlfM1hMb1_mC2UMHDfQ4bvK90I"
           }
         },
         {
@@ -1017,7 +1017,7 @@
           "artifact": {
             "size": 4888336,
             "MD5": "91eba29b9b7d5205b589414e58d361bc",
-            "url": "MEGA-URL-voicechat-forge-1-20-1-2-6-3-jar"
+            "url": "https://mega.nz/file/ZsAGFTbJ#VZ8cunVWhcYxJ6bGb_5NnIwFndkh8Yc8mGkY3XHEeDE"
           }
         },
         {
@@ -1027,7 +1027,7 @@
           "artifact": {
             "size": 518288,
             "MD5": "035eeccd86c7c0a00582b913e264aa81",
-            "url": "MEGA-URL-waystones-forge-1-20-1-14-1-17-jar"
+            "url": "https://mega.nz/file/R1p2XK7Z#5dgaDJtb0JFgFgKlSCd3g718bWkxXsreIx6ZuX19EGo"
           }
         },
         {
@@ -1037,7 +1037,7 @@
           "artifact": {
             "size": 1105891,
             "MD5": "2437cb642e24726a83f864e345f24479",
-            "url": "MEGA-URL-yet-another-config-lib-v3-3-6-6-1-20-1-forge-jar"
+            "url": "https://mega.nz/file/4pAlmKYA#1pl9FOmvzCTvfPmLuNBdTpR1XHlicKFUwxH4renj4ZA"
           }
         },
         {
@@ -1047,7 +1047,7 @@
           "artifact": {
             "size": 304415885,
             "MD5": "cb61e6a83f0fd9c873ca3398e4572736",
-            "url": "MEGA-URL-zmedievalmusic-1-20-1-2-2-jar"
+            "url": "https://mega.nz/file/t8BBBQRR#Xe2WZA4SRSY2raW8vGovrUbEMCYyklVAzWg_xE0JJ04"
           }
         }
       ]
