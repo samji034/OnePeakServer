@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "rss": "https://exemple.com/news.rss",
+  "rss": "",
   "discord": {
-    "clientId": "123456789012345678",
+    "clientId": "null",
     "smallImageText": "OnePeak"
   },
   "servers": [
@@ -1044,3 +1044,4 @@
     }
   ]
 }
+
