@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "rss": "https://exemple.com/news.rss",
   "discord": {
-    "clientId": "null",
-    "smallImageText": "null"
+    "clientId": null,
+    "smallImageText": null
   },
   "servers": [
     {
@@ -16,7 +16,7 @@
       "discord": {
         "shortId": "OnePeak",
         "largeImageText": "OnePeak",
-        "largeImageKey": "null"
+        "largeImageKey": null
       },
       "mainServer": true,
       "autoconnect": true,
@@ -1044,3 +1044,4 @@
     }
   ]
 }
+
